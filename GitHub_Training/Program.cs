@@ -14,5 +14,8 @@ namespace GitHub_Training
 
 
         }
+
+        string Test_Function() { return "test"; }
+
     }
 }
