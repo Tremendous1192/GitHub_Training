@@ -14,5 +14,8 @@ namespace GitHub_Training
 
 
         }
+
+        void Function_training_20200531() { }
+
     }
 }
